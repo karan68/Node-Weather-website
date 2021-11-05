@@ -9,4 +9,5 @@ app.listen(port,() => {
     console.log('the server is up on port '+port)
 }) //listening the website
 
-5)
+5)push code to git : git push heroku main
+6)voila done
