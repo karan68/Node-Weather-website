@@ -11,3 +11,10 @@ app.listen(port,() => {
 
 5)push code to git : git push heroku main
 6)voila done
+
+
+
+---------------------------------xxxx---------------------
+add feature and deploy
+1) push it to git hub ist, using the commands, you can use git-read-me for help
+2)git push heroku main - to push to heroku.
